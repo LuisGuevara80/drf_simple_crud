@@ -1,0 +1,1 @@
+Este es un proyecto simple que realicé, donde básicamente me sirvió para aprender a crear un CRUD. Aún falta mucho por mejorar aquí, pero era más que nada para empezar a familiarizarme con estos términos y tecnologías.
